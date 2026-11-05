@@ -7,7 +7,7 @@ An automated Python solution designed to optimize industrial inventory allocatio
   - `dispatch_summary.json`: Structured operational summary with timestamps and key payload metrics.
   - `dispatch_manifest.csv`: Clean tabular manifest ready for ERP system integration.
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Python 3.x**
 - Standard Libraries: `csv`, `json`, `datetime`
