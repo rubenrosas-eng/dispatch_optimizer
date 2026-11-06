@@ -12,7 +12,7 @@ An automated Python solution designed to optimize industrial inventory allocatio
 - **Python 3.x**
 - Standard Libraries: `csv`, `json`, `datetime`
 
-## 📊 Sample Output (JSON)
+ Sample Output (JSON)
 
 ```json
 {
