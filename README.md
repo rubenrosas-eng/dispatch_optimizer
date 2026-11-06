@@ -12,7 +12,9 @@ An automated Python solution designed to optimize industrial inventory allocatio
 - **Python 3.x**
 - Standard Libraries: `csv`, `json`, `datetime`
 
-JSON
+## 📊 Sample Output (JSON)
+
+```json
 {
     "timestamp": "2026-11-05 12:00:00",
     "total_items": 1,
